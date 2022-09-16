@@ -1,0 +1,6 @@
+Hello
+world!
+This
+is
+rust
+questionnaire
